@@ -1,4 +1,5 @@
 # SPODW2_AULA1
+<<<<<<< HEAD
 ## Atividade da primeira aula de  DESENVOLVIMENTO WEB 2
 
 ### Esse projeto contém dois exercícios feito na aula de Programação Web 2 em JavaScript.
@@ -13,4 +14,5 @@
 # Atividade 2 - Xadrez
 
 ### Esse programa gera um padrão xadrez usando '#' e espaços em branco, uma linha começa com'#' e  outra com um espaço em branco.
+
 
