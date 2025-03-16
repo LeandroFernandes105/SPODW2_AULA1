@@ -1,5 +1,5 @@
 # SPODW2_AULA1
-<<<<<<< HEAD
+
 ## Atividade da primeira aula de  DESENVOLVIMENTO WEB 2
 
 ### Esse projeto contém dois exercícios feito na aula de Programação Web 2 em JavaScript.
